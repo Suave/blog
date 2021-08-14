@@ -1,2 +1,11 @@
-# blog
-content is more important than style, write in markdown, store in github, it's my blog. occasionally update
+# Blog
+个人博客几经搬迁，不折腾形式了，只是为了记录。纯粹的文本存在 GitHub 上好了，部分内容会在微信公众号里同步一下
+
+- [《叫魂》读后感](20120914-jiaohun-reading-notes.md)
+- [2011 与 2012 年回顾](20161031-2011&2012review.md)
+- [2013, 2014, 2015 年回顾](20161102-2013&2014&2015review.md)
+- [2016 年读书记录](20161230-2016reading.md)
+- [2016 年回顾](20161231-2016review.md)
+- [2017 年回顾](20180117-2017review.md)
+- [和邻居爷爷的几句对话](20180117-2017review.md)
+
