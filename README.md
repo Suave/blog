@@ -11,4 +11,5 @@
 - [和邻居爷爷的几句对话](20210605-life-story.md)
 - [教育与技术](20210830-edu-vs-tech.md)
 - [读《复盘》](20210831-fupan-read-notes.md)
+- [在 23:56 分想起今天是加入 JuiceFS 四周年的日子](20210901-4-years-join-the-juicefs.md)
 
